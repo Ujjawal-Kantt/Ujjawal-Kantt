@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **kafka and docker.**
 
-- 💬 Ask me about **react, DSA,**
+- 💬 Ask me about **React, DSA,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,5 +24,4 @@
 
 <img alt="my-stats" align ="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=Ujjawal-Kantt&show_icons=true&theme=synthwave"/>
 <img alt="my-lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal-Kantt&theme=synthwave&layout=compact"/>
-<h3 align="left">Wakatime stats from 1 August 2024:</h3>
 <img alt="mylang-used-time" src="https://github-readme-stats.vercel.app/api/wakatime?username=ujjukantt&v=2"/>
